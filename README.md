@@ -2,7 +2,7 @@
     <h1>💜AHN SE YUN💜</h1>
 </div>
 
-<img src="https://media.giphy.com/media/3XwovBMIAwmBVbGDv5/giphy-downsized-large.gif">
+<img src="hhttps://media.giphy.com/media/3XwovBMIAwmBVbGDv5/giphy.gif">
 
 <p align="right"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunniya097&count_bg=%23EAD2EF&title_bg=%23AC75C6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="yunniya097" /> </p>
 
