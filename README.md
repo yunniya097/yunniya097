@@ -8,9 +8,8 @@
 </div>
 
 ![Yunniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunniya097&show_icons=true&theme=material-palenight)
-<div align="right">
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907)](https://solved.ac/profile/tpdbs0907)
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907)](https://solved.ac/profile/tpdbs0907)
+
 
 <div align="center">
     <h2>⚒Tech Stack⚒</h2>
