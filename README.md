@@ -7,8 +7,8 @@
     <img src="https://user-images.githubusercontent.com/81553569/151810430-0a068776-5f6e-4e58-8899-020ea31448a8.gif">
 </div>
 
-![Yunniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunniya097&show_icons=true&theme=material-palenight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907)](https://solved.ac/profile/tpdbs0907)
+<a class="has-line-data" data-line-start="7" data-line-end="9"><img src="https://github-readme-stats.vercel.app/api?username=yunniya097&amp;show_icons=true&amp;theme=material-palenight" alt="Yunniya's GitHub stats"><br>
+<href="https://solved.ac/profile/tpdbs0907"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile"></a>
 
 
 <div align="center">
