@@ -7,7 +7,7 @@
     <img src="https://user-images.githubusercontent.com/81553569/151810430-0a068776-5f6e-4e58-8899-020ea31448a8.gif">
 </div>
 
-<class="has-line-data" data-line-start="7" data-line-end="9"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=yunniya097&amp;show_icons=true&amp;theme=material-palenight" alt="Yunniya's GitHub stats" /><a href="https://solved.ac/profile/tpdbs0907"><img height="160px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile" /></a></br>
+<p class="has-line-data" data-line-start="7" data-line-end="9"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=yunniya097&amp;show_icons=true&amp;theme=material-palenight" alt="Yunniya's GitHub stats" /><a href="https://solved.ac/profile/tpdbs0907"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile" /></a></p>
 
 
 <div align="center">
