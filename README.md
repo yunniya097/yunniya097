@@ -14,14 +14,14 @@
 
 <div align="center">
     <h2>⚒Tech Stack⚒</h2>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge"> 
-    <img src="https://img.shields.io/badge/JAVA-007396?style=flat&amp;logo=JAVA&amp;logoColor=white" alt="JAVA Badge"> 
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&amp;logo=C&amp;logoColor=white" alt="C Badge"> 
-    <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat&amp;logo=CSharp&amp;logoColor=white" alt="C# Badge"> 
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&amp;logo=Arduino&amp;logoColor=white" alt="Arduino Badge"></br>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat&amp;logo=Express&amp;logoColor=white" alt="Express Badge"> 
-    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&amp;logo=Unity&amp;logoColor=black" alt="Unity Badge"> 
-    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&amp;logo=Tensorflow&amp;logoColor=white" alt="Tensorflow Badge">
+    <img height="30px" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge"> 
+    <img height="30px" src="https://img.shields.io/badge/JAVA-007396?style=flat&amp;logo=JAVA&amp;logoColor=white" alt="JAVA Badge"> 
+    <img height="30px" src="https://img.shields.io/badge/C-A8B9CC?style=flat&amp;logo=C&amp;logoColor=white" alt="C Badge"> 
+    <img height="30px" src="https://img.shields.io/badge/C%20Sharp-239120?style=flat&amp;logo=CSharp&amp;logoColor=white" alt="C# Badge"> 
+    <img height="30px" src="https://img.shields.io/badge/Arduino-00979D?style=flat&amp;logo=Arduino&amp;logoColor=white" alt="Arduino Badge"></br>
+    <img height="30px" src="https://img.shields.io/badge/Express-000000?style=flat&amp;logo=Express&amp;logoColor=white" alt="Express Badge"> 
+    <img height="30px" src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&amp;logo=Unity&amp;logoColor=black" alt="Unity Badge"> 
+    <img height="30px" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&amp;logo=Tensorflow&amp;logoColor=white" alt="Tensorflow Badge">
 </div>
 
 
@@ -29,10 +29,10 @@
     <h2>📞Contact📞</h2>
     <div align="center">
         <a href="https://yunniya097.github.io/">
-            <img src="https://img.shields.io/badge/Blog-D88BFF?style=flat&amp;logoColor=white" alt="GitBlog Badge">
+            <img height="30px" src="https://img.shields.io/badge/Blog-D88BFF?style=flat&amp;logoColor=white" alt="GitBlog Badge">
         </a> 
         <a href="https://www.instagram.com/y_unniyya/">
-            <img src="https://img.shields.io/badge/Instagram-C83CE7?style=flat&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Badge">
+            <img height="30px" src="https://img.shields.io/badge/Instagram-C83CE7?style=flat&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Badge">
         </a>
     </div>
 </div>
