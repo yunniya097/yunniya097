@@ -45,10 +45,10 @@ Here are some ideas to get you started:
     <h2>📞Contact📞</h2>
     <div align="center">
         <a href="https://yunniya097.github.io/">
-            <img height="25px" src="https://img.shields.io/badge/Blog-D88BFF?style=flat&amp;logoColor=white" alt="GitBlog Badge">
+            <img height="22px" src="https://img.shields.io/badge/Blog-D88BFF?style=flat&amp;logoColor=white" alt="GitBlog Badge">
         </a> 
         <a href="https://www.instagram.com/y_unniyya/">
-            <img height="25px" src="https://img.shields.io/badge/Instagram-C83CE7?style=flat&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Badge">
+            <img height="22px" src="https://img.shields.io/badge/Instagram-C83CE7?style=flat&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Badge">
         </a>
     </div>
 </div>
