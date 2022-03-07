@@ -8,12 +8,12 @@
 </div>
 
 <div style='display:grid; grid-template-columns: auto auto;'>
-    <div>
+    <div align="left">
         * 🧚‍ I’m currently working on Hanyang Univ ERICA, Devision of Computer Science<br>
         * 🌱 I’m currently learning NLP<br>
         * 📫 How to reach me: e-mail to tpdbs0907@hanyang.ac.kr
     </div>
-    <div>
+    <div align="right">
        <a href="https://solved.ac/profile/tpdbs0907"><img height="130px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile" /></a>
     </div>
 </div>
