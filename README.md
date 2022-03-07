@@ -7,20 +7,9 @@
     <img width="990px" src="https://user-images.githubusercontent.com/81553569/151810430-0a068776-5f6e-4e58-8899-020ea31448a8.gif">
 </div>
 
-<!--
-**yunniya097/yunniya097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🧚‍♀️ I'm currently studying at Hanyang University ERICA.
-🌱 I'm currently learning NLP.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧚‍ I’m currently working on Hanyang Univ ERICA, Devision of Computer Science
+🌱 I’m currently learning NLP
+📫 How to reach me: e-mail to tpdbs0907@hanyang.ac.kr
 
 <div align="center">
     <p class="has-line-data" data-line-start="7" data-line-end="9"><img height="182px" src="https://github-readme-stats.vercel.app/api?username=yunniya097&amp;show_icons=true&amp;theme=material-palenight" alt="Yunniya's GitHub stats" /><a href="https://solved.ac/profile/tpdbs0907"><img  height="182px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile" /></a></p>
