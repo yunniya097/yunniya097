@@ -14,7 +14,8 @@
 </div>
 
 <div align="right">
-<p class="has-line-data" data-line-start="11" data-line-end="13"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunniya097&amp;layout=compact" alt="Top Langs"><br>
+<img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=yunniya097&theme=material-palenight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" />
+<!--<p class="has-line-data" data-line-start="11" data-line-end="13"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunniya097&amp;layout=compact" alt="Top Langs"><br> -->
 </div>
 
 <div align="center">
