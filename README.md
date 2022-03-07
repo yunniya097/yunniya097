@@ -7,17 +7,17 @@
     <img width="990px" src="https://user-images.githubusercontent.com/81553569/151810430-0a068776-5f6e-4e58-8899-020ea31448a8.gif">
 </div>
 
+<div align="right">
+<a href="https://solved.ac/profile/tpdbs0907"><img  height="175px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile" />
+<!--<p class="has-line-data" data-line-start="11" data-line-end="13"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunniya097&amp;layout=compact" alt="Top Langs"><br> -->
+</div>
+    
 * 🧚‍ I’m currently working on Hanyang Univ ERICA, Devision of Computer Science<br>
 * 🌱 I’m currently learning NLP<br>
 * 📫 How to reach me: e-mail to tpdbs0907@hanyang.ac.kr
 
-<div align="right">
-<a href="https://solved.ac/profile/tpdbs0907"><img  height="160px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile" />
-<!--<p class="has-line-data" data-line-start="11" data-line-end="13"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunniya097&amp;layout=compact" alt="Top Langs"><br> -->
-</div>
-
 <div align="center">
-    <p class="has-line-data" data-line-start="7" data-line-end="9"><img height="182px" src="https://github-readme-stats.vercel.app/api?username=yunniya097&amp;show_icons=true&amp;theme=material-palenight" alt="Yunniya's GitHub stats" /><img height="182px" src="https://github-readme-streak-stats.herokuapp.com/?user=yunniya097&theme=material-palenight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a></p>
+    <p class="has-line-data" data-line-start="7" data-line-end="9"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=yunniya097&amp;show_icons=true&amp;theme=material-palenight" alt="Yunniya's GitHub stats" /><img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=yunniya097&theme=material-palenight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a></p>
 </div>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
