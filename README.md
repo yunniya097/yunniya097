@@ -8,8 +8,8 @@
 </div>
 
 <div alig="left">
-    - 🧚‍ I’m currently working on Hanyang Univ ERICA, Devision of Computer Science
-    - 🌱 I’m currently learning NLP
+    - 🧚‍ I’m currently working on Hanyang Univ ERICA, Devision of Computer Science<br>
+    - 🌱 I’m currently learning NLP<br>
     - 📫 How to reach me: e-mail to tpdbs0907@hanyang.ac.kr
 </div>
 
