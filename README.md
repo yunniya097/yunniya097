@@ -7,10 +7,8 @@
     <img width="990px" src="https://user-images.githubusercontent.com/81553569/151810430-0a068776-5f6e-4e58-8899-020ea31448a8.gif">
 </div>
 
-<div align="right">
-<a href="https://solved.ac/profile/tpdbs0907"><img  height="175px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile" />
+<a href="https://solved.ac/profile/tpdbs0907"><img  height="175px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile" /></a>
 <!--<p class="has-line-data" data-line-start="11" data-line-end="13"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunniya097&amp;layout=compact" alt="Top Langs"><br> -->
-</div>
     
 * 🧚‍ I’m currently working on Hanyang Univ ERICA, Devision of Computer Science<br>
 * 🌱 I’m currently learning NLP<br>
