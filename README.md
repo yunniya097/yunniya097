@@ -7,15 +7,25 @@
     <img width="990px" src="https://user-images.githubusercontent.com/81553569/151810430-0a068776-5f6e-4e58-8899-020ea31448a8.gif">
 </div>
 
-🧚‍ I’m currently working on Hanyang Univ ERICA, Devision of Computer Science
-🌱 I’m currently learning NLP
-📫 How to reach me: e-mail to tpdbs0907@hanyang.ac.kr
+- 🧚‍ I’m currently working on Hanyang Univ ERICA, Devision of Computer Science
+- 🌱 I’m currently learning NLP
+- 📫 How to reach me: e-mail to tpdbs0907@hanyang.ac.kr
+
+<div align="right">
+<p class="has-line-data" data-line-start="11" data-line-end="13"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunniya097&amp;layout=compact" alt="Top Langs"><br>
+</div>
 
 <div align="center">
     <p class="has-line-data" data-line-start="7" data-line-end="9"><img height="182px" src="https://github-readme-stats.vercel.app/api?username=yunniya097&amp;show_icons=true&amp;theme=material-palenight" alt="Yunniya's GitHub stats" /><a href="https://solved.ac/profile/tpdbs0907"><img  height="182px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile" /></a></p>
 </div>
 
-
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+-->
 <div align="center">
     <h2>⚒Tech Stack⚒</h2>
     <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge"> 
