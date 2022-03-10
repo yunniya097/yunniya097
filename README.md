@@ -22,13 +22,7 @@
     <p class="has-line-data" data-line-start="7" data-line-end="9"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=yunniya097&amp;show_icons=true&amp;theme=material-palenight" alt="Yunniya's GitHub stats" /><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=yunniya097&theme=material-palenight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a></p>
 </div>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
--->
+
 <div align="center">
     <h2>⚒Tech Stack⚒</h2>
     <img height="20px" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge"> 
