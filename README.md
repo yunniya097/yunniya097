@@ -7,16 +7,13 @@
     <img width="990px" src="https://user-images.githubusercontent.com/81553569/151810430-0a068776-5f6e-4e58-8899-020ea31448a8.gif">
 </div>
 
-<div style='display:grid; grid-template-columns: auto auto;'>
-    <div align="left">
-        * 🧚‍ I’m currently working on Hanyang Univ ERICA, Devision of Computer Science<br>
-        * 🌱 I’m currently learning NLP<br>
-        * 📫 How to reach me: e-mail to tpdbs0907@hanyang.ac.kr
-        
-    </div>
-    <div align="right">
-       <a href="https://solved.ac/profile/tpdbs0907"><img height="130px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile" /></a>
-    </div>
+<div align="left">
+    * 🧚‍ I’m currently working on Hanyang Univ ERICA, Devision of Computer Science<br>
+    * 🌱 I’m currently learning NLP<br>
+    * 📫 How to reach me: e-mail to tpdbs0907@hanyang.ac.kr
+</div>
+<div align="right">
+    <a href="https://solved.ac/profile/tpdbs0907"><img height="130px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdbs0907" alt="Solved.ac Profile" /></a>
 </div>
 
 <div align="center">
