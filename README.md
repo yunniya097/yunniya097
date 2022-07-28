@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunniya097&count_bg=%23EAD2EF&title_bg=%23AC75C6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="yunniya097" /> </p>
 <div align="center">
-    <img width="990px" src="https://user-images.githubusercontent.com/81553569/151810430-0a068776-5f6e-4e58-8899-020ea31448a8.gif">
+    <img width="900px" src="https://user-images.githubusercontent.com/81553569/151810430-0a068776-5f6e-4e58-8899-020ea31448a8.gif">
 </div>
 
 <div align="left">
